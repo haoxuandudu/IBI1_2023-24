@@ -1,0 +1,7 @@
+question: Plot a boxplot of DALYs across countries in 2019
+code start: begin at line 45
+discussion: the boxplot shows that the minimum value of this is about 20000, and the maximun is about 90000
+The first quartile (Q1) is at approximately 30,000 DALYs.
+The median (Q2) is about 50,000 DALYs, which is the middle value for all countries.
+The third quartile (Q3) is near 70,000 DALYs.
+It has some outliers suggests that some countries face extraordinary health challenges.
