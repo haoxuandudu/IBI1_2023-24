@@ -1,0 +1,6 @@
+Overall, I think this practical was difficult but rewarding. 
+Although some aspect was easy to understand, there were still many difficuties I met.
+For me, some aspects were easy like the basic SIR model.
+However, for some steps, like incorporating vaccination into this model was difficut and made me confused.
+In this practical, i really enjoyed dealing with different vaccination rates and observing their effects on the spread of the disease.
+The most important thing I learned from this practical was the importance of considering real-world factors.
