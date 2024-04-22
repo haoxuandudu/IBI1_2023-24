@@ -1,11 +1,10 @@
-yanyan 
-chocolate
-cake
-fruit
-cat 
-dog
-monkey
-elephant
-candy
-sugar
-Yanyan 
+I like running 
+I like eating chocolate
+I like reading books
+I like playing piano
+I like cats
+I like dogs
+I like monkeys
+I like eating candies
+I like listening to music
+i like skiing
